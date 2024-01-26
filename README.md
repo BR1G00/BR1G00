@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Bruno, a passionate web developer on a perpetual quest to explore the latest technologies and refine my developer skills. Always eager to learn, I strive to infuse creativity into every aspect of web development.
+I'm Bruno, a web developer on a perpetual quest to explore the latest technologies and refine my developer skills. Always eager to learn, I strive to infuse creativity into every aspect of web development.
 
 ## 🧰 Technologies
 

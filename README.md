@@ -5,15 +5,18 @@ I'm Bruno, a web developer on a perpetual quest to explore the latest technologi
 
 <p align="left">
     <img src="https://img.shields.io/badge/Typescript%20-%20%233178C6?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6" />
-    <img src="https://img.shields.io/badge/Vue.js%20-%20%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%234FC08D" />
+    <img src="https://img.shields.io/badge/React-%233b7ea1?style=for-the-badge&logo=react&logoColor=white&color=3b7ea1" />
+    <img src="https://img.shields.io/badge/React%20Native-%2332323D?style=for-the-badge&logo=react&logoColor=white&color=32323D" />
     <img src="https://img.shields.io/badge/Ruby%20on%20Rails%20-%20%23D30001?style=for-the-badge&logo=rubyonrails&color=%23D30001" />
+    <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white&color=339933" />
 </p>
 
 ## ☁ ️Other tools
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Git%20-%20%23F05032?style=for-the-badge&logo=git&logoColor=white&color=%23F05032" />
+    <img src="https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=icloud&logoColor=white&color=232F3E" />
     <img src="https://img.shields.io/badge/Docker%20-%20%232496ED?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED" />
+    <img src="https://img.shields.io/badge/Git%20-%20%23F05032?style=for-the-badge&logo=git&logoColor=white&color=%23F05032" />
 </p>
 
 ## 📫 How to reach me
